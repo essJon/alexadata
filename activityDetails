@@ -1,0 +1,22 @@
+{
+  "rock climbing": {
+    "time": "6.00pm",
+    "location": "Liverpool Pro Bouldering Gym at 267 Wilson Road, CH42LIQ"
+  },
+  "cue sports": {
+    "time": "6.00pm",
+    "location": "Liverpool Cue Masters Hall at 84 Denby Street, L8 6WQ"
+  },
+   "ice skating": {
+    "time": "6.00pm",
+    "location": "Mersey Ice Arena at 12 Fleetwater Drive, L4 3NT"
+  },
+   "paintball": {
+    "time": "6.00pm",
+    "location": "Urban Strike Paintball Park at 45 Kirksham Lane, L11 2ZX"
+  },
+   "concert": {
+    "time": "6.00pm",
+    "location": "Riverside Echo Live Hall at 201 Hanover Quay, L3 7RL"
+  }
+}
